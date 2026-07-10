@@ -144,5 +144,6 @@
    - Role management UI for admins
 
    ## License
-   No license specified. If you plan to distribute, please add an appropriate license.
+   No license specified. If you plan to distribute, please add an appropriate license. 
+   new idea to implement
 
