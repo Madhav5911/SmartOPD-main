@@ -13,7 +13,7 @@
       - Monitor queues per doctor and call the next patient
       - View and filter patient lists; update statuses (`waiting` → `in-progress` → `completed`)
       - Review audit logs of important actions
-      - Manage via role-based access using Supabase Auth (`SUPER_ADMIN`, `DOCTOR`, `RECEPTIONIST`)
+      - Manage via role-based access using Supabase Auth (`SUPER_ADMIN`, `DOCTOR`, `RECEPTIONIST`) 
 
    ## Tech Stack
    - Frontend: Vite + React + TypeScript
